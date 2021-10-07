@@ -7,7 +7,7 @@ namespace web_api_empresa.Models{
         public DbSet<Puestos> Puestos { get; set; }
     }
     class Conectar{
-        private const string cadenaConexion = "server=localhost;port=3306;database=db_desarrollo_web_empresa;user=root;pwd=";
+        private const string cadenaConexion = "server=localhost;port=3306;database=db_desarrollo_empresa;user=root;pwd=";
         public static Conexion Create(){
             var constructor = new DbContextOptionsBuilder<Conexion>();
             constructor.UseMySQL(cadenaConexion);

@@ -1,123 +1,123 @@
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\appsettings.json
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.exe
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.deps.json
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.runtimeconfig.json
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\ref\web_api_1.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.pdb
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Remotion.Linq.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\System.Interactive.Async.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\ref\web_api_1.dll
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.pdb
-C:\Users\BRYANT-PC\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\appsettings.json
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.exe
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.deps.json
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.json
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\ref\web_api_1.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.pdb
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Remotion.Linq.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\System.Interactive.Async.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\ref\web_api_1.dll
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.pdb
-C:\Users\BRYANT-PC\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\appsettings.json
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.exe
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.deps.json
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.json
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\ref\web_api_1.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.pdb
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Google.Protobuf.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\MySql.Data.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Remotion.Linq.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Interactive.Async.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\ref\web_api_1.dll
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.pdb
-C:\Users\BRYANT-PC\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\appsettings.json
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.exe
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.deps.json
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.runtimeconfig.json
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\ref\web_api_1.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.pdb
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\ref\web_api_1.dll
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.pdb
+C:\Users\LUIS-PAZ\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\appsettings.json
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.exe
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.deps.json
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.json
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\ref\web_api_1.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.pdb
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\ref\web_api_1.dll
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.pdb
+C:\Users\LUIS-PAZ\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\appsettings.json
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.exe
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.deps.json
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.json
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\ref\web_api_1.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.pdb
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\ref\web_api_1.dll
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.pdb
+C:\Users\LUIS-PAZ\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
